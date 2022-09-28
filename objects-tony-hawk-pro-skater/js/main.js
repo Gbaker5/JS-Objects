@@ -18,3 +18,7 @@ this.grab = function(){
 let kareemCampbell = new TonyHawkCharacter('kareem','goofy','element','ghetto bird')
 
 let buckyLasek = new TonyHawkCharacter('bucky', 'regular', 'idk', 'the fandangle')
+
+let rodneyMullen = new TonyHawkCharacter('rodney', 'regular, idk', 'heelflip darkside')
+
+let tonyHawk = new TonyHawkCharacter('tony', 'goofy', 'idk', 'The 900')
