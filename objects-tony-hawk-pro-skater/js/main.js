@@ -22,3 +22,5 @@ let buckyLasek = new TonyHawkCharacter('bucky', 'regular', 'idk', 'the fandangle
 let rodneyMullen = new TonyHawkCharacter('rodney', 'regular, idk', 'heelflip darkside')
 
 let tonyHawk = new TonyHawkCharacter('tony', 'goofy', 'idk', 'The 900')
+
+let bobBurnquist = new TonyHawkCharacter('bob', 'regular', 'idk', 'rocket Tailslide')
