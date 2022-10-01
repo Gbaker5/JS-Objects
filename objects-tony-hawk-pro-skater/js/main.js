@@ -26,3 +26,5 @@ let tonyHawk = new TonyHawkCharacter('tony', 'goofy', 'idk', 'The 900')
 let bobBurnquist = new TonyHawkCharacter('bob', 'regular', 'idk', 'rocket Tailslide')
 
 let steveCaballero = new TonyHawkCharacter('steve', 'goofy', 'idk', 'hang ten')
+
+let chadMuska = new TonyHawkCharacter('chad', 'regular', 'idk', 'Hurricane')
