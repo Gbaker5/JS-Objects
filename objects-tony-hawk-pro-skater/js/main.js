@@ -28,3 +28,5 @@ let bobBurnquist = new TonyHawkCharacter('bob', 'regular', 'idk', 'rocket Tailsl
 let steveCaballero = new TonyHawkCharacter('steve', 'goofy', 'idk', 'hang ten')
 
 let chadMuska = new TonyHawkCharacter('chad', 'regular', 'idk', 'Hurricane')
+
+let elissaSteamer = new TonyHawkCharacter('elissa', 'regular', 'idk', 'madonna tailslide')
