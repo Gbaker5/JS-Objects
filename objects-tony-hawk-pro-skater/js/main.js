@@ -1,8 +1,8 @@
 //Create a Tony Hawk Pro Skater constructor that makes fighting game characters with 4 properties and 3 methods
-function TonyHawkCharacter(chName,chStance,chSponsor,chMove){
+function TonyHawkCharacter(chName,chStance,chStyle,chMove){
 this.characterName = chName
 this.stance = chStance
-this.sponsor = chSponsor
+this.style = chStyle
 this.specialMove = chMove
 this.flip = function(){
     console.log('Kickflip!!!')
@@ -21,7 +21,7 @@ let buckyLasek = new TonyHawkCharacter('bucky', 'regular', 'idk', 'the fandangle
 
 let rodneyMullen = new TonyHawkCharacter('rodney', 'regular, idk', 'heelflip darkside')
 
-let tonyHawk = new TonyHawkCharacter('tony', 'goofy', 'idk', 'The 900')
+let tonyHawk = new TonyHawkCharacter('tony', 'goofy', 'birdhouse', 'The 900')
 
 let bobBurnquist = new TonyHawkCharacter('bob', 'regular', 'idk', 'rocket Tailslide')
 
