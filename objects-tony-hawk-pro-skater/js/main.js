@@ -34,3 +34,5 @@ let elissaSteamer = new TonyHawkCharacter('elissa', 'regular', 'street', 'madonn
 let runeGlifberg = new TonyHawkCharacter('rune', 'regular', 'vert', 'christ air')
 
 let ericKoston = new TonyHawkCharacter('eric', 'goofy', 'street', 'pizza guy')
+
+let andrewReynolds = new TonyHawkCharacter('andrew', 'regular', 'street', 'hardflip late flip')
