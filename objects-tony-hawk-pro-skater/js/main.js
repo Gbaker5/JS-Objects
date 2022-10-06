@@ -19,13 +19,13 @@ let kareemCampbell = new TonyHawkCharacter('kareem','goofy','street','ghetto bir
 
 let buckyLasek = new TonyHawkCharacter('bucky', 'regular', 'vert', 'fingerflip airwalk')
 
-let rodneyMullen = new TonyHawkCharacter('rodney', 'regular, idk', 'heelflip darkside')
+let rodneyMullen = new TonyHawkCharacter('rodney', 'regular', 'street', 'heelflip darkside')
 
-let tonyHawk = new TonyHawkCharacter('tony', 'goofy', 'birdhouse', 'The 900')
+let tonyHawk = new TonyHawkCharacter('tony', 'goofy', 'vert', 'The 900')
 
-let bobBurnquist = new TonyHawkCharacter('bob', 'regular', 'idk', 'rocket Tailslide')
+let bobBurnquist = new TonyHawkCharacter('bob', 'regular', 'all around', 'rocket Tailslide')
 
-let steveCaballero = new TonyHawkCharacter('steve', 'goofy', 'idk', 'hang ten')
+let steveCaballero = new TonyHawkCharacter('steve', 'goofy', 'all around', 'hang ten')
 
 let chadMuska = new TonyHawkCharacter('chad', 'regular', 'idk', 'Hurricane')
 
