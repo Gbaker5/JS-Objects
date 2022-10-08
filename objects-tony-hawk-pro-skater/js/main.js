@@ -32,3 +32,5 @@ let chadMuska = new TonyHawkCharacter('chad', 'regular', 'street', 'Hurricane')
 let elissaSteamer = new TonyHawkCharacter('elissa', 'regular', 'street', 'madonna tailslide')
 
 let runeGlifberg = new TonyHawkCharacter('rune', 'regular', 'vert', 'christ air')
+
+let ericKoston = new TonyHawkCharacter('eric', 'goofy', 'street', 'pizza guy')
