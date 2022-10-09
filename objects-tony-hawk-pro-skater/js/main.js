@@ -38,3 +38,5 @@ let ericKoston = new TonyHawkCharacter('eric', 'goofy', 'street', 'pizza guy')
 let andrewReynolds = new TonyHawkCharacter('andrew', 'regular', 'street', 'hardflip late flip')
 
 let geoffRowley = new TonyHawkCharacter('geoff', 'regular', 'street', 'triple heelflip')
+
+let jamieThomas = new TonyHawkCharacter('jamie', 'regular', 'street', 'beni F-flip crooks')
