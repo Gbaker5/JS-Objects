@@ -36,3 +36,5 @@ let runeGlifberg = new TonyHawkCharacter('rune', 'regular', 'vert', 'christ air'
 let ericKoston = new TonyHawkCharacter('eric', 'goofy', 'street', 'pizza guy')
 
 let andrewReynolds = new TonyHawkCharacter('andrew', 'regular', 'street', 'hardflip late flip')
+
+let geoffRowley = new TonyHawkCharacter('geoff', 'regular', 'street', 'triple heelflip')
