@@ -8,7 +8,7 @@ this.flip = function(){
     console.log('Kickflip!!!')
 }
 this.taunt = function(){
-    console.log('Dont Make me Use my ${this.specialMove}')
+    console.log(`Dont Make me Use my ${this.specialMove}`)
 }
 this.grab = function(){
     console.log('MELON GRAB')
